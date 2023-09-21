@@ -1,6 +1,6 @@
 Hey, I'm Fedor
 
-~~Smart-contracts developer and auditor~~ (not yet)
+Smart-contracts developer and auditor
 
 Languages: **Solidity, Javascript**, C#, C++, SQL.  
 Frameworks: **Hardhat**, Chai
