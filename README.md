@@ -2,14 +2,8 @@ Hey, I'm Fedor
 
 Smart-contracts developer and auditor
 
-Languages: **Solidity, Javascript**, C#, C++, SQL.  
-Frameworks: **Hardhat**, Chai
-
 Five years worked as industrial automation software developer.  
 Developed real-time control systems mostly with IEC-61131 languages.
-
-Right now learning smartcontract development:
-Freecodecamp, Coursera, Cryptozombies, Ethernaut and tons of different sources
 
 CV - https://github.com/popelev/popelev/blob/main/CV.pdf  
 LinkedIn - https://linkedin.com/in/fedor-popelev  
