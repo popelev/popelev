@@ -2,7 +2,7 @@ Hey, I'm Fedor
 
 Smart-contracts developer and auditor
 
-Five years worked as industrial automation software developer.  
+6 years worked as industrial automation software developer.  
 Developed real-time control systems mostly with IEC-61131 languages.
 
 CV - https://github.com/popelev/popelev/blob/main/CV.pdf  
